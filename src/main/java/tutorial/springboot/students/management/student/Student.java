@@ -1,4 +1,4 @@
-package tutorial.springboot.students.management.model;
+package tutorial.springboot.students.management.student;
 
 import java.time.LocalDate;
 
