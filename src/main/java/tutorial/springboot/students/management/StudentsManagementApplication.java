@@ -12,7 +12,6 @@ import java.util.Arrays;
 import java.util.List;
 
 @SpringBootApplication
-
 public class StudentsManagementApplication {
 
 	public static void main(String[] args) {
